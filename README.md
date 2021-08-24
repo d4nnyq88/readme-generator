@@ -1,13 +1,13 @@
-#Project 1
+# Project 1
   ## License:
-  BSD [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)  
+  GPL [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
   ## Table of Contents:
-  [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-  [Contributing](#contributing)
-  [Tests](#tests)
-  [Questions](#questions)  
+  1. [Description](#description)
+  2. [Installation](#installation)
+  3. [Usage](#usage)
+  4. [Contributing](#contributing)
+  5. [Tests](#tests)
+  6. [Questions](#questions)  
   ## Description:
   good project
   &nbsp;  
@@ -15,7 +15,7 @@
   install
   &nbsp;  
   ## Usage:
-  cool 
+  cool stuff
   &nbsp;  
   ## Contributing:
   add stuff
