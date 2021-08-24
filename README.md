@@ -1,6 +1,6 @@
 #Project 1
   ## License:
-  MIT[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+  BSD [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)  
   ## Table of Contents:
   [Description](#description)
   [Installation](#installation)
@@ -9,13 +9,13 @@
   [Tests](#tests)
   [Questions](#questions)  
   ## Description:
-  good
+  good project
   &nbsp;  
   ## Installation:
-  what
+  install
   &nbsp;  
   ## Usage:
-  cool
+  cool 
   &nbsp;  
   ## Contributing:
   add stuff
